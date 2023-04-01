@@ -339,7 +339,7 @@ button:hover .btntxt2{
 }
 @media only screen and (min-width:300px) and (max-width:900px){
     body{
-        background-color: #3D087B;;
+        background-color: blue;
     }
     .clock{
         position: relative;
@@ -436,7 +436,7 @@ button:hover .btntxt2{
             #FC5EFF,
             #F1A7C5
         );
-        width: 299px;
+        width: 239px;
         height: 50px;
         border-radius: 8px;
         position: relative;
@@ -461,5 +461,11 @@ button:hover .btntxt2{
         font-size: 16px;
         opacity: 0.7;
         color: #F25CFE;
+    }
+    #mudasir{
+        position: absolute;
+        width: 230px;
+        top: 1250px;
+        left: 320px;
     }
 }
