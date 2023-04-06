@@ -67,6 +67,13 @@ body{
         top: 30px;
         left: 185px;
     }
+    .col1{
+        color: #3D087B;
+        font-size: 45px;
+        position: absolute;
+        top: 30px;
+        left: 279px;
+    }
     #sec{
         background-image: url(./timeline.png);
         width: 80px;
